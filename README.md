@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AdityaPatil-AP)](https://git.io/streak-stats)
