@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Music Recognizer**.
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/admin](https://linktr.ee/admin).
+- 👨‍💻 All of my projects are available at [https://linktr.ee/invinciblezeal3](https://linktr.ee/invinciblezeal3).
 
 - 📫 How to reach me **adityapatil15963@gmail.com**.
 
