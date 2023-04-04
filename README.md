@@ -1,4 +1,4 @@
-![logo](https://github.com/AdityaPatil-AP/AdityaPatil-AP/blob/main/Github%20-%20Profile%20-%20Banner.png)
+![logo](https://github.com/AdityaPatil-AP/AdityaPatil-AP/blob/main/Github%20-%20Profile%20-%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Aditya Patil</h1>
 <h3 align="center">As a software engineer, I am passionate about creating high-quality software that solves real-world problems.</h3>
