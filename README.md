@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapatil-ap&label=Profile%20views&color=0e75b6&style=flat" alt="adityapatil-ap" /> </p>
 
-- 🌱 I’m currently learning **Blockchain, Cloud Computing.**
+- 🌱 I’m currently learning **Blockchaina, Cloud Computing.**
 
 - 🔭 I’m currently working on **Music Recognizer**.
 
