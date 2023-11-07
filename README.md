@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **adityapatil15963@gmail.com**.
 
-- 📄 Know about my experiences [portfolio-website-link](portfolio-website-link).
-
 - ⚡ Fun fact **I think I am funny🤘🤘**.
 
 <br>
